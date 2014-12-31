@@ -1,0 +1,250 @@
+﻿
+
+header {
+    background-color: #66CCFF;
+    height: 8%;
+}
+
+h2 {
+    text-align: center;
+    background-color: #0000FF;
+    font-family: 'Lao UI';
+    font-weight: bold;
+    color: #FFFFFF;
+    height: 30px;
+}
+
+.Labels {
+    font-family: 'Courier New' , Courier, monospace;
+    color: #646464;
+    font-weight: lighter;
+    text-align: center;
+    margin-left: 2px;
+}
+
+.Labels2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #FF0000;
+    font-weight: lighter;
+}
+
+.Labels1 {
+    width: 800px;
+    height: 800px;
+    margin-left: 346px;
+}
+
+.Labels2 {
+    margin-left: 120px;
+}
+
+.Labels3 {
+    width: 800px;
+    height: 800px;
+    margin-left: 20px;
+}
+
+div {
+    border: thin groove #C0C0C0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #0000FF;
+    font-size: medium;
+    background-color: #E2FAFA;
+    height: 0px;
+}
+
+.Client {
+    text-align: center;
+    right: 20px;
+    left: 20px;
+    width: 100%;
+}
+
+
+h3 {
+    color: #800080;
+    height: 12px;
+}
+
+#Buy {
+    float: left;
+    width: 50%;
+    clip: rect(auto, auto, auto, 30px);
+    border-collapse: separate;
+    table-layout: fixed;
+    width: 50%;
+    top: 50%;
+    height: 64%;
+   
+}
+
+#Sell {
+    float: right;
+    top: 50%;
+    height: 64%;
+    width: 50%;
+    clip: rect(auto, auto, auto, 30px);
+    border-collapse: separate;  
+    width: 49%;
+    
+}
+
+#Nav {
+    float: none;
+    text-align: center;
+    background-color: #00FF00;
+    width: 100%;
+    height: 15%;
+}
+
+#Accept {
+    float: none;
+    text-align: center;
+    background-color: #D5FFFF;
+    height: 10%;
+    top: 90%;
+}
+
+
+
+.Nav {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 2px;
+    height: 30px;
+    Width: 100px;
+    font-size: medium;
+}
+
+.Accept {
+    background-color: #CCCCFF;
+    color: #0000FF;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 2px;
+    Width: 25px;
+}
+
+#BodyMain {
+    Width: 103%;
+    text-align: center;
+    background-color: #66CCFF;
+    height: 210px;
+}
+
+#BodyDeals {
+    Width: 100%;
+    text-align: center;
+    background-color: #66CCFF;
+    height: 210px;
+}
+
+#Body1 {
+    width: 101%;
+    height: 49%;
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    margin-top: -40px;
+    margin-left: -10px;
+}
+
+#Body {
+    width: 87%;
+    height: 90%;
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    margin-top: -40px;
+    margin-left: -10px;
+}
+
+#Main {
+    text-align: center;
+    height: 100%;
+    top: 0%;
+    margin-top: -150px;
+}
+
+#MainSection {
+    text-align: center;
+    margin-left: 800px;
+    height: 100%;
+    margin-top: -40px;
+}
+
+#MainSection1 {
+    text-align: center;
+    margin-left: 0px;
+    height: 100%;
+    margin-top: 50px;
+}
+
+#Deal {
+    height: 120px;
+    left: -100px;
+}
+
+#Deals {
+    text-align: center;
+    height: 80%;
+    top: 30%;
+    margin-top: -10px;
+}
+
+#Client {
+    height: 20%;
+}
+
+#Delivery {
+    height: 60%;
+}
+
+
+
+
+
+#Update {
+    text-align: center;
+    height: 42%;
+    top: 20%;
+    margin-top: -10px;
+}
+
+
+
+#form1 {
+    text-align: center;
+    width: 90%;
+    height: 100%;
+    margin-top: -80px;
+}
+
+#head {
+    height: 70%;
+}
+
+.txtNo {
+    background-color: #66CCFF;
+}
+
+.TextBoxBg {
+    background-color: #FFFFC6;
+      font-family: 'MS Reference Sans Serif';
+    font-size: small;
+
+}
+
+
+.TextBoxDeal {
+    background-color: #FFFFC6;
+    font-family: 'MS Reference Sans Serif';
+    font-size: small;
+    clip: rect(auto, 80px, auto, auto);
+    font-weight: normal;
+}
+
+
